@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.Main-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.Main-para {
+    color: #616e7c;
+    font-size: 13px;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.software-image {
+    height: 50vh;
+    width: 80vh;
+    padding: 20px;
+}
+
+.first-page-images {
+    height: 20vh;
+    width: 40vh;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.AT-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/advanced-technologies-img.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+}
+
+.AT-bg-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.AT-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.AT-para {
+    color: black;
+    font-size: 17px;
+    font-family: "Roboto";
+    text-align: left;
+    padding-left: 20px;
+}
+
+.btn-lm {
+    border-radius: 8px;
+    height: 40px;
+    width: 130px;
+}
+
+.btn-b {
+    border-radius: 8px;
+    height: 40px;
+    width: 90px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 220px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 150px;
+    border-radius: 9px;
+    padding: 25px;
+    margin: 30px;
+}
+
+.diwali-card-image {
+    height: 70px;
+    width: 70px;
+}
+
+.diwali-card-name {
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: #616e7c;
+    font-weight: normal;
+    margin: 3px;
+}
+
+.diwali-card-price {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 16px;
+    color: #323f4b;
+}
+
+.bg-container-news {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-news {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-align: left;
+    padding: 40px;
+    height: 41vh;
+}
+
+.para1-news {
+    color: #7b8794;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+
+.heading-news {
+    font-size: 25px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.button-news {
+    border-radius: 8px;
+    font-family: "Roboto";
+    background-color: #323f4b;
+    color: #ffffff;
+    height: 35px;
+    font-size: 10px;
+    width: 100px;
+
+}
+
+.para2-news {
+    font-size: 17px;
+    color: #7b8794;
+    font-family: "Roboto";
+
+}
+
+.bg-container-food {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.bg-card-food {
+    text-align: left;
+    background-color: #f6c56e;
+    color: #323f4b;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.main-heading-food {
+    font-family: Bree Serif;
+
+}
+
+.para-food {
+    font-family: Roboto;
+    font-weight: bold;
+
+}
+
+.button-food {
+    background-color: #ffffff;
+    color: Roboto;
+    height: 36px;
+    width: 100px;
+    border-radius: 12px;
+    border-width: 0px;
+}
